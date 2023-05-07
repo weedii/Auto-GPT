@@ -1,0 +1,33 @@
+*********************************************************************************************************************************************************************************************
+										Hello and Welcome
+*********************************************************************************************************************************************************************************************
+
+
+Please follow those stepes:
+
+1- Install git from this Link if you don't have on your pc and check all the boxes:
+	https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
+
+
+2- Install python from this Link if you don't have on your pc and check all the boxes:
+	https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
+
+
+3- Open cmd and Run this commandline and press enter to install Auto-GPT:
+	git clone https://github.com/weedii/Auto-GPT.git
+
+
+4- Then Run this commandline and press enter to go into the directory of Auto-GPT:
+	cd Auto-GPT
+
+
+5- Then Run this commandline and press enter to install the requirements:
+	pip install -r requirements.txt
+
+
+6-  Now Run this commandline and press enter to open Auto-GPT:
+	python -m autogpt
+
+
+
+*************************************************************************** And taraaaaaa Now you get Auto-GPT on your PC *******************************************************************
